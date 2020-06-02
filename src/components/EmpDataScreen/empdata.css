@@ -1,0 +1,25 @@
+table{
+    border : 1px solid;
+    margin:10px 20px;
+    padding:20px;
+}
+tr{
+    margin:10px;
+}
+.btn-flex{
+    margin:10px 20px;
+    padding:20px;
+}
+.btn{
+    font-size: 18px;
+    cursor:pointer;
+}
+.btn-delete{
+    color: red;
+}
+.btn-edit{
+    color:green;
+}
+.btn-insert{
+    color:blue;
+}
